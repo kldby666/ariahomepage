@@ -1,7 +1,7 @@
 export const config:Config = {
     title: "时光居の~",
     author: "Kldby",
-    avatar: "https://tp.shiguang520.com/img/20250818.jpg",
+    avatar: "https://img0v0.shiguang520.com/img/20250818.jpg",
     description: "痴情的妖怪啊 请再等一世吧",
     links: [
         {
